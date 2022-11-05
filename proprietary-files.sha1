@@ -1,0 +1,200 @@
+# All blobs are from "hammerhead-user 4.4.2 KOT49H 937116 release-keys" and are pinned with sha1sum values
+
+# Audio
+vendor/lib/libacdbloader.so|bea46d6c20ca5cfdc72e6ded2ffbc8a8e5928115
+vendor/lib/libacdbrtac.so|33f0b774cd2c343f20bb89fc20caa50edac111c0
+vendor/lib/libadiertac.so|273eee9d85623976df59b894bc2cc3fa64f58566
+vendor/lib/libaudcal.so|c48a86bfea972d8e2e5bfd9a4cb0111f073c4d05
+
+# Bluetooth
+vendor/lib/libbt-vendor.so|63e5f2a52305aa5c8630796608cb29f0096e31c8
+
+# Camera
+vendor/lib/libDxHdcp.so|915befdea9623fee463a5e1d27bd6d9d6ae70aea
+vendor/lib/libjpegdhw.so|dc0ee4514fa60fc034460fa768566427f9d65843
+vendor/lib/libjpegehw.so|d7ef435f1f53112b59b501e8eaa20eb9b16a3efc
+vendor/lib/libmmjpeg.so|a6de86a8a5a2291fc642856793f85384c60bb823
+vendor/lib/libmmqjpeg_codec.so|406340044e656180e68f0791ce3aaa2d7ca046a7
+vendor/lib/libqomx_jpegenc.so|ca45d83cd9ed8e9ca3e2050a48eb92f91bddf946
+vendor/lib/libvdmengine.so|150a315eb805fba61ffdd240cf7b1a66ba93d850
+vendor/lib/libvdmfumo.so|af2a59f72acaf5312e9e0defa12bc3c845cc35f8
+
+# Camera-sensors
+vendor/lib/libmmcamera2_c2d_module.so|bfd10d25f952502d1b378fa91b1b8918a4f22aa3
+vendor/lib/libmmcamera2_cpp_module.so|1f3e2687544860e4dbdf488778a9c51c60a898fd
+vendor/lib/libmmcamera2_iface_modules.so|bc48f5dfe45982eb20fc054b3d679cfa8a44a6d2
+vendor/lib/libmmcamera2_imglib_modules.so|0c6e837e922b337f9ef6a986068eae7c3cf3a82c
+vendor/lib/libmmcamera2_isp_modules.so|0fd5f421cba70619ee16f59544b590f4c0fe0d2c
+vendor/lib/libmmcamera2_pproc_modules.so|30e4c32949c82faf8f8107c11675510b0a5a5fd3
+vendor/lib/libmmcamera2_sensor_modules.so|8d8947f97ec172075d74bddca0b1b446f350e23c
+vendor/lib/libmmcamera2_stats_algorithm.so|2961b2c88316cb7bc14024eb10d249a8cd78b93e
+vendor/lib/libmmcamera2_stats_modules.so|45a384d3c38905ff062bc12c7bde963dbb21b976
+vendor/lib/libmmcamera2_vpe_module.so|eb7b5fd88873d09b2fc918bba8af5cd535d33785
+vendor/lib/libmmcamera2_wnr_module.so|ce09d6f5dcf46ffe65df4c355ae43ed6f5b82fe1
+vendor/lib/libmmcamera_faceproc.so|f03f2b24f6edf95bc1b59d1b9533968167dbd7c0
+vendor/lib/libmmcamera_imglib.so|9d85475be6ff0b5ead2158a6d920f1c230c9f561
+vendor/lib/libmmcamera_imx179_eeprom.so|1341233aa9fe4b83b1f8f75b1a9632e1f1ae8fe5
+
+# DRM
+
+# DRM-Widevine
+vendor/firmware/widevine.b00|5dce2028431fd276a4d3a70e99abec349f7e51de
+vendor/firmware/widevine.b01|fabb1892e72c128604b1db61686e48fca958c769
+vendor/firmware/widevine.b02|5f7007322176489e5987415642b38c2f31eaa84f
+vendor/firmware/widevine.b03|a0d1b5ac33f92926353a2586a4560c80d34c2e71
+vendor/firmware/widevine.mdt|2a0987888e394001878acf2bef2fe4561ad9a4d5
+vendor/lib/mediadrm/libwvdrmengine.so|5e6f03898aff627873dd20d14a69317e58bf0949
+
+# Display-Hardware
+
+# Firmware
+vendor/firmware/a330_pfp.fw|3e2fcee7276ded819cf2d95864fdd6788a484ee1
+vendor/firmware/a330_pm4.fw|ae739ea812f9e4462d7bba8b9ead5782d4496618
+vendor/firmware/adsp.b00|274a0fea30b347902c8c9f0384d6c61f7f5d70fa
+vendor/firmware/adsp.b01|ff1f65f2b67e288119ff8acaeabdd50c44690e1a
+vendor/firmware/adsp.b02|5ba93c9db0cff93f52b521d7420e43f6eda2784f
+vendor/firmware/adsp.b03|879d5a5175620e2ff431e78225b5579b9d369d4e
+vendor/firmware/adsp.b04|dc0f3eda149b92850ae674ce5502bba61467e02d
+vendor/firmware/adsp.b05|89efb1e723609d3d787d662997079967aacdc259
+vendor/firmware/adsp.b06|e2156695e21f3effbbb27d997cc4d1e3ab545ec6
+vendor/firmware/adsp.b07|28f3b571159ad7dc652ae6075d518156e4cfac19
+vendor/firmware/adsp.b08|fe526676512f4924b8984ca6f5cb6a46786f4191
+vendor/firmware/adsp.b09|bde40cbb55e89d9b2e624ff3d60f98f5e226ee86
+vendor/firmware/adsp.b10|a0dbae3bc497a4df38adc11bbaefe201f90fafa0
+vendor/firmware/adsp.b11|03de118c9394c09485b50bf4e169b23110cc73fe
+vendor/firmware/adsp.b12|3b0988c6d9395f2dcc5e40c7823d8383ae7a4c8f
+vendor/firmware/adsp.mdt|ba0150d19ed8c498d37691491ba660ce99398c57
+vendor/firmware/bcm2079x-b5_firmware.ncd|33e44353138f849489e6aefe89c554c63d34fc47
+vendor/firmware/bcm2079x-b5_pre_firmware.ncd|2ccf260d91300c61faaee61108cb694b93fd31ce
+vendor/firmware/bcm4335c0.hcd|f54f353aa516ab9174e68175c555f90253630b2f
+vendor/firmware/bu24205_LGIT_VER_2_DATA1.bin|5d466ce160c74c79484c58f00c154b88b2471436
+vendor/firmware/bu24205_LGIT_VER_2_DATA2.bin|a74870397fe86eb458aa99255df3c1fc53b20868
+vendor/firmware/bu24205_LGIT_VER_2_DATA3.bin|a2e3631318ceacd28dda0907d0b9d9c118b5ef7e
+vendor/firmware/bu24205_LGIT_VER_3_CAL.bin|dea0a907557de380ddd77edb7a2e11a50b000436
+vendor/firmware/bu24205_LGIT_VER_3_DATA1.bin|5d466ce160c74c79484c58f00c154b88b2471436
+vendor/firmware/bu24205_LGIT_VER_3_DATA2.bin|4077d003ff2fbd85504962eea96e25f04714c17a
+vendor/firmware/bu24205_LGIT_VER_3_DATA3.bin|a2e3631318ceacd28dda0907d0b9d9c118b5ef7e
+vendor/firmware/cmnlib.b00|99055d0fa71abf8b6f285cdc1a168a5874722250
+vendor/firmware/cmnlib.b01|74f892717a780b4f79f521ebf4a9edeec1b20151
+vendor/firmware/cmnlib.b02|c68144301553f4de2e00f40c0b8ba60d0767361e
+vendor/firmware/cmnlib.b03|051c5d6d7d934fb80cf93ab9555483b89d7cf940
+vendor/firmware/cmnlib.mdt|a7ff0774f273b4b73f91fde35183c395196ec93f
+vendor/firmware/discretix/dxhdcp2.b00|70c83a64ebcfccb275206297d1330dbd2460a0c4
+vendor/firmware/discretix/dxhdcp2.b01|fcf3f4d9135df830b56f4ada075235a3daa01cb1
+vendor/firmware/discretix/dxhdcp2.b02|c950692da96562257cdfe54530017df652d581cc
+vendor/firmware/discretix/dxhdcp2.b03|85d698f1ac8f8c318e6d84d6ddc22f91419193da
+vendor/firmware/discretix/dxhdcp2.mdt|4773de5908929d2928067530f83b9c27fbe7d415
+vendor/firmware/fw_bcmdhd.bin|388ba725938366f3b011a9b5515e0659994d623d
+vendor/firmware/fw_bcmdhd_apsta.bin|1bd57c0e3aa6d381e79a9577eb39d7816754e897
+vendor/firmware/keymaster/keymaster.b00|fdc03b586c6e4db998c4c7372598ab3aaa63dd66
+vendor/firmware/keymaster/keymaster.b01|8fe0a610f763617f8361ef489c6b04bf02099859
+vendor/firmware/keymaster/keymaster.b02|bbac705dff89f56837a39a2dd52f68d4814806ca
+vendor/firmware/keymaster/keymaster.b03|a447d98def702fcaa20b4f23684ce64180e4e754
+vendor/firmware/keymaster/keymaster.mdt|512465b9f2e68b4977f4f2f85af08e25160d69fd
+vendor/firmware/venus.b00|00bb2715edc953740e16764445837d49b5ebeffb
+vendor/firmware/venus.b01|22b1419f98a692825f3eab10b1eafc445db91aaf
+vendor/firmware/venus.b02|4b5c0dcbca5d73b2a9b19d89e1e71bdf8f9f35c1
+vendor/firmware/venus.b03|64dfa8aa15448680a714c6e066a2137ca52a9b11
+vendor/firmware/venus.b04|c1756e0567d10a1173f481cd367ff4637b2dd77f
+vendor/firmware/venus.mdt|f2af5f81713b67afaab1dbab9a7fc1669695f7c8
+
+# GPS
+vendor/lib/libgeofence.so|97df05ad90bdedc074f2620cb26763afe75dc05b
+vendor/lib/libizat_core.so|15e372143dca8cd63b981cba6c5280c9c28f5fe9
+vendor/lib/libloc_api_v02.so|d53b5159f120dd221d391396d9ba75f4d7d0db5e
+vendor/lib/libloc_ds_api.so|381d644da1cd99f174b5fdc48f09ed7ab4c0b8e5
+
+# GPS-Hardware
+
+# Graphics
+vendor/lib/egl/eglsubAndroid.so|174e629e604843dedbb5d00917f74e8bb6d94f82
+vendor/lib/egl/libEGL_adreno.so|91d012ae4c6bb14bc0ea42e0465a9c3ff1cf2f61
+vendor/lib/egl/libGLESv1_CM_adreno.so|924d0568ee70088700a69c988b9eb4984085f0bd
+vendor/lib/egl/libGLESv2_adreno.so|89d312366786dc68b7f1600dd5a6aa7509c9e1b4
+vendor/lib/egl/libplayback_adreno.so|a76b424d79c2b2538c9f6474da07cd899aaff448
+vendor/lib/egl/libq3dtools_adreno.so|56e707179a5edc11be440b9cca1bafe34c3d0d84
+vendor/lib/libadreno_utils.so|f3b01389dd27ce706c25e4ef9c562109c7ba1fd9
+vendor/lib/libC2D2.so|c504342fba9bc74c4c156e0977b9a01e6e7d522b
+vendor/lib/libc2d30-a3xx.so|9a450464c37019928e345f754d9234090bc1cdf8
+vendor/lib/libc2d30.so|66c9e4cb2a4ff1def5e6158ed8a60cc73ffbb61f
+vendor/lib/libCB.so|d571cf0431037a126a4f69c8efaa597c60b6f9fb
+vendor/lib/libgsl.so|643c7e6d479c1e4d59fabc93ff8decf685e6464a
+vendor/lib/libRSDriver_adreno.so|e24af744d02a050fce982985d5a00b900ef5a57e
+vendor/lib/librs_adreno.so|4b23701729f4dde9ccf3eadc13e0fb092c267e4e
+vendor/lib/librs_adreno_sha1.so|1dda5c152f9fd9e6569fbecbeeb323b13e885b41
+
+# Keymaster
+
+# Listen
+
+# Media
+
+# Media-Hardware
+
+# Perf
+
+# Postprocessing
+
+# QMI
+vendor/lib/libdiag.so|b50040d0be2c3c91cd2831807ca73e2a3d639f7e
+vendor/lib/libdsutils.so|d6ec126a77b490e7af5244fdcafdb46e3f70e943
+vendor/lib/libidl.so|164789a7cd63e89fbe9b794d2837551857676c1f
+vendor/lib/libqcci_legacy.so|6ed3b1ee7d31c8310a191138e293cd0400bbab2c
+vendor/lib/libqdi.so|3d74b8c9e36051ee39dddfa1530370cfae7d0c22
+vendor/lib/libqdp.so|fc99a8186c69226a8f21934d1d67ba564cd4731f
+vendor/lib/libqmi.so|c02cf11dfe93f16fb18faa924430e0ba876ebd9f
+vendor/lib/libqmiservices.so|442c35ef494cbd0a51b07921b6fddc8b49bd1ccc
+vendor/lib/libqmi_cci.so|e25776793a0da28aa502633e37e02e26cfa3a53c
+vendor/lib/libqmi_client_qmux.so|26f8e8039641c20e916d0d0abaed628036b1aad3
+vendor/lib/libqmi_common_so.so|25a825df80fc544f93f3a646457c535a33446dc7
+vendor/lib/libqmi_csi.so|e1353408ebb76eb4309de452aac284c1bbe7dbed
+vendor/lib/libqmi_encdec.so|b653ba8a4bd930a2e5547508d569797184a9a93d
+
+# Radio
+etc/permissions/qcrilhook.xml|9fc58a3d54d20ac1d53bab14608815121aefbce5
+-framework/qcrilhook.jar|7a0c4876c35d704697a1a68b777f121674343ea7
+vendor/lib/libconfigdb.so|4acd120a2c839da968e99f95fd28e576b9375b00
+vendor/lib/libdsi_netctrl.so|2164eda6189526b274830497f1480bb22bd0fae8
+vendor/lib/libnetmgr.so|bffcff3778dbd5c057807fa6b9b4c49690f9d44b
+vendor/lib/libril-qcril-hook-oem.so|7ca7437a5dd6ec3e30fb9bab935ad05cfa0548eb
+
+# Sensors
+vendor/lib/hw/sensors.msm8974.so|d20629ab576b0c340342608a15469a3956802710
+vendor/lib/libsensor1.so|ba61719e7312e7899f041f513f84bf21c149856e
+vendor/lib/libsensor_reg.so|69dcdd6bcc5b6374da68a5e36ca4b6a44022c045
+vendor/lib/libsensor_user_cal.so|87133137daab5899ad76014a426baa3bd0a2d356
+
+# Time
+vendor/lib/libtime_genoff.so|1d29d94e6d2cea9f4e1d46c7227de9a8b98be86a
+
+# WiFi
+
+# Misc
+vendor/bin/vss_init|3bf45ac83fa621f331b0f6061b73ac11d7055290
+vendor/lib/drm/libdrmwvmplugin.so|3ea7698b341b55e226051ff2fdb064a5b91828e8
+vendor/lib/libAKM8963.so|78f810467a9bc673964fa16ae2ac04eb63067a4f
+vendor/lib/libCommandSvc.so|eafdd616ccf336dd69cb25e21b2e4ff7a6d8d195
+vendor/lib/libdrmdecrypt.so|001241725b79c154a57c82de9c102a71ebae06cd
+vendor/lib/libfrsdk.so|38e70b9429f311e7cc60f1d0b2c8a585ede7a471
+vendor/lib/libFuzzmmstillomxenc.so|f1efc18800eed62babcc111c20cb02c9a1f33b3a
+vendor/lib/libllvm-a3xx.so|7729ae19ed4b7e04e901b5bffe3bfeff988529ae
+vendor/lib/libmmipl.so|4f4897084758d913b781f279da750f880f306e0d
+vendor/lib/liboemcamera.so|5341d3526e791a861af3aa1e130bdac0b66de069
+vendor/lib/libsc-a3xx.so|2113676a48feff27d09106735c75d2196e27cfee
+vendor/lib/libTimeService.so|a7af961535f660de9eada1d04c0016932c703d71
+vendor/lib/libvss_common_core.so|b18badd0e394ccc4f30ee38e2bd79f48f0b7f54b
+vendor/lib/libvss_common_idl.so|944f2e68c5a262386b7a0771d22363dd177aeada
+vendor/lib/libvss_common_iface.so|1a32016cb5b7051e055e85b72efc4e6ea07870fc
+vendor/lib/libvss_nv_core.so|f2b988707aa2ae751a9d59ff79acb283ea8e541d
+vendor/lib/libvss_nv_idl.so|1e7f04a831286eda884b6bdb72b8040962db75f4
+vendor/lib/libvss_nv_iface.so|1c5520c93e6d2255f58c4b5226f3bd2033320184
+vendor/lib/libwvdrm_L1.so|a29459cbf1632591550deb06ca8363983b9b1165
+vendor/lib/libwvm.so|d42235606abb0336ab04b0e749db0ef14589b43a
+vendor/lib/libWVStreamControlAPI_L1.so|0ac0c1df1d69b61a48ce29bc0cf9533353729545
+vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.7/left_eye-y0-yi45-p0-pi45-r0-ri20.lg_32.bin|e1290debcdb208ed4441d0706518d18e9c424aa3
+vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.7/nose_base-y0-yi45-p0-pi45-r0-ri20.lg_32.bin|bb4f5f6565f7b9d523f2fa9f6db42d2526a083df
+vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.7/right_eye-y0-yi45-p0-pi45-r0-ri20.lg_32-2.bin|d03d8bd3733cc2aa33d421c482afb93d1b6a0041
+vendor/pittpatt/models/detection/yaw_roll_face_detectors.6/head-y0-yi45-p0-pi45-r0-ri30.4a-v24.bin|5a6939e49ae3b792b1b02cd213115c7f6274eadb
+vendor/pittpatt/models/detection/yaw_roll_face_detectors.6/head-y0-yi45-p0-pi45-rn30-ri30.5-v24.bin|41e1d568521f1da30ceb130a68c4330e0165a093
+vendor/pittpatt/models/detection/yaw_roll_face_detectors.6/head-y0-yi45-p0-pi45-rp30-ri30.5-v24.bin|3cb78111ceeca18cc128af39285a9ef0b4673b02
+vendor/pittpatt/models/recognition/face.face.y0-y0-22-b-N.bin|29b943398176c9a7abb3a3f5e97d54efc14d1e6a

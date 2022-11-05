@@ -1,0 +1,200 @@
+# All blobs from hammerhead-user 4.4.2 KOT49H 937116 release-keys, unless pinned
+
+# Audio
+vendor/lib/libacdbloader.so
+vendor/lib/libacdbrtac.so
+vendor/lib/libadiertac.so
+vendor/lib/libaudcal.so
+
+# Bluetooth
+vendor/lib/libbt-vendor.so
+
+# Camera
+vendor/lib/libDxHdcp.so
+vendor/lib/libjpegdhw.so
+vendor/lib/libjpegehw.so
+vendor/lib/libmmjpeg.so
+vendor/lib/libmmqjpeg_codec.so
+vendor/lib/libqomx_jpegenc.so
+vendor/lib/libvdmengine.so
+vendor/lib/libvdmfumo.so
+
+# Camera-sensors
+vendor/lib/libmmcamera2_c2d_module.so
+vendor/lib/libmmcamera2_cpp_module.so
+vendor/lib/libmmcamera2_iface_modules.so
+vendor/lib/libmmcamera2_imglib_modules.so
+vendor/lib/libmmcamera2_isp_modules.so
+vendor/lib/libmmcamera2_pproc_modules.so
+vendor/lib/libmmcamera2_sensor_modules.so
+vendor/lib/libmmcamera2_stats_algorithm.so
+vendor/lib/libmmcamera2_stats_modules.so
+vendor/lib/libmmcamera2_vpe_module.so
+vendor/lib/libmmcamera2_wnr_module.so
+vendor/lib/libmmcamera_faceproc.so
+vendor/lib/libmmcamera_imglib.so
+vendor/lib/libmmcamera_imx179_eeprom.so
+
+# DRM
+
+# DRM-Widevine
+vendor/firmware/widevine.b00
+vendor/firmware/widevine.b01
+vendor/firmware/widevine.b02
+vendor/firmware/widevine.b03
+vendor/firmware/widevine.mdt
+vendor/lib/mediadrm/libwvdrmengine.so
+
+# Display-Hardware
+
+# Firmware
+vendor/firmware/a330_pfp.fw
+vendor/firmware/a330_pm4.fw
+vendor/firmware/adsp.b00
+vendor/firmware/adsp.b01
+vendor/firmware/adsp.b02
+vendor/firmware/adsp.b03
+vendor/firmware/adsp.b04
+vendor/firmware/adsp.b05
+vendor/firmware/adsp.b06
+vendor/firmware/adsp.b07
+vendor/firmware/adsp.b08
+vendor/firmware/adsp.b09
+vendor/firmware/adsp.b10
+vendor/firmware/adsp.b11
+vendor/firmware/adsp.b12
+vendor/firmware/adsp.mdt
+vendor/firmware/bcm2079x-b5_firmware.ncd
+vendor/firmware/bcm2079x-b5_pre_firmware.ncd
+vendor/firmware/bcm4335c0.hcd
+vendor/firmware/bu24205_LGIT_VER_2_DATA1.bin
+vendor/firmware/bu24205_LGIT_VER_2_DATA2.bin
+vendor/firmware/bu24205_LGIT_VER_2_DATA3.bin
+vendor/firmware/bu24205_LGIT_VER_3_CAL.bin
+vendor/firmware/bu24205_LGIT_VER_3_DATA1.bin
+vendor/firmware/bu24205_LGIT_VER_3_DATA2.bin
+vendor/firmware/bu24205_LGIT_VER_3_DATA3.bin
+vendor/firmware/cmnlib.b00
+vendor/firmware/cmnlib.b01
+vendor/firmware/cmnlib.b02
+vendor/firmware/cmnlib.b03
+vendor/firmware/cmnlib.mdt
+vendor/firmware/discretix/dxhdcp2.b00
+vendor/firmware/discretix/dxhdcp2.b01
+vendor/firmware/discretix/dxhdcp2.b02
+vendor/firmware/discretix/dxhdcp2.b03
+vendor/firmware/discretix/dxhdcp2.mdt
+vendor/firmware/fw_bcmdhd.bin
+vendor/firmware/fw_bcmdhd_apsta.bin
+vendor/firmware/keymaster/keymaster.b00
+vendor/firmware/keymaster/keymaster.b01
+vendor/firmware/keymaster/keymaster.b02
+vendor/firmware/keymaster/keymaster.b03
+vendor/firmware/keymaster/keymaster.mdt
+vendor/firmware/venus.b00
+vendor/firmware/venus.b01
+vendor/firmware/venus.b02
+vendor/firmware/venus.b03
+vendor/firmware/venus.b04
+vendor/firmware/venus.mdt
+
+# GPS
+vendor/lib/libgeofence.so
+vendor/lib/libizat_core.so
+vendor/lib/libloc_api_v02.so
+vendor/lib/libloc_ds_api.so
+
+# GPS-Hardware
+
+# Graphics
+vendor/lib/egl/eglsubAndroid.so
+vendor/lib/egl/libEGL_adreno.so
+vendor/lib/egl/libGLESv1_CM_adreno.so
+vendor/lib/egl/libGLESv2_adreno.so
+vendor/lib/egl/libplayback_adreno.so
+vendor/lib/egl/libq3dtools_adreno.so
+vendor/lib/libadreno_utils.so
+vendor/lib/libC2D2.so
+vendor/lib/libc2d30-a3xx.so
+vendor/lib/libc2d30.so
+vendor/lib/libCB.so
+vendor/lib/libgsl.so
+vendor/lib/libRSDriver_adreno.so
+vendor/lib/librs_adreno.so
+vendor/lib/librs_adreno_sha1.so
+
+# Keymaster
+
+# Listen
+
+# Media
+
+# Media-Hardware
+
+# Perf
+
+# Postprocessing
+
+# QMI
+vendor/lib/libdiag.so
+vendor/lib/libdsutils.so
+vendor/lib/libidl.so
+vendor/lib/libqcci_legacy.so
+vendor/lib/libqdi.so
+vendor/lib/libqdp.so
+vendor/lib/libqmi.so
+vendor/lib/libqmiservices.so
+vendor/lib/libqmi_cci.so
+vendor/lib/libqmi_client_qmux.so
+vendor/lib/libqmi_common_so.so
+vendor/lib/libqmi_csi.so
+vendor/lib/libqmi_encdec.so
+
+# Radio
+etc/permissions/qcrilhook.xml
+-framework/qcrilhook.jar
+vendor/lib/libconfigdb.so
+vendor/lib/libdsi_netctrl.so
+vendor/lib/libnetmgr.so
+vendor/lib/libril-qcril-hook-oem.so
+
+# Sensors
+vendor/lib/hw/sensors.msm8974.so
+vendor/lib/libsensor1.so
+vendor/lib/libsensor_reg.so
+vendor/lib/libsensor_user_cal.so
+
+# Time
+vendor/lib/libtime_genoff.so
+
+# WiFi
+
+# Misc
+vendor/bin/vss_init
+vendor/lib/drm/libdrmwvmplugin.so
+vendor/lib/libAKM8963.so
+vendor/lib/libCommandSvc.so
+vendor/lib/libdrmdecrypt.so
+vendor/lib/libfrsdk.so
+vendor/lib/libFuzzmmstillomxenc.so
+vendor/lib/libllvm-a3xx.so
+vendor/lib/libmmipl.so
+vendor/lib/liboemcamera.so
+vendor/lib/libsc-a3xx.so
+vendor/lib/libTimeService.so
+vendor/lib/libvss_common_core.so
+vendor/lib/libvss_common_idl.so
+vendor/lib/libvss_common_iface.so
+vendor/lib/libvss_nv_core.so
+vendor/lib/libvss_nv_idl.so
+vendor/lib/libvss_nv_iface.so
+vendor/lib/libwvdrm_L1.so
+vendor/lib/libwvm.so
+vendor/lib/libWVStreamControlAPI_L1.so
+vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.7/left_eye-y0-yi45-p0-pi45-r0-ri20.lg_32.bin
+vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.7/nose_base-y0-yi45-p0-pi45-r0-ri20.lg_32.bin
+vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.7/right_eye-y0-yi45-p0-pi45-r0-ri20.lg_32-2.bin
+vendor/pittpatt/models/detection/yaw_roll_face_detectors.6/head-y0-yi45-p0-pi45-r0-ri30.4a-v24.bin
+vendor/pittpatt/models/detection/yaw_roll_face_detectors.6/head-y0-yi45-p0-pi45-rn30-ri30.5-v24.bin
+vendor/pittpatt/models/detection/yaw_roll_face_detectors.6/head-y0-yi45-p0-pi45-rp30-ri30.5-v24.bin
+vendor/pittpatt/models/recognition/face.face.y0-y0-22-b-N.bin

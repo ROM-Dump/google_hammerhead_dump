@@ -1,0 +1,18 @@
+## hammerhead-user 4.4.2 KOT49H 937116 release-keys
+- Manufacturer: lge
+- Platform: msm8974
+- Codename: hammerhead
+- Brand: google
+- Flavor: user
+- Release Version: 4.4.2
+- Id: KOT49H
+- Incremental: 937116
+- Tags: release-keys
+- CPU Abilist: 
+- A/B Device: false
+- Locale: undefined
+- Screen Density: 480
+- Fingerprint: google/hammerhead/hammerhead:4.4.2/KOT49H/937116:user/release-keys
+- OTA version: 
+- Branch: hammerhead-user-4.4.2-KOT49H-937116-release-keys
+- Repo: google_hammerhead_dump
